@@ -1,0 +1,5 @@
+.env
+venv
+bot_domContatos.py
+bot_dom.py
+novo_enviar_whats.py
